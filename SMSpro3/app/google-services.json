@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "535504852147",
+    "firebase_url": "https://smspro3-1b703.firebaseio.com",
+    "project_id": "smspro3-1b703",
+    "storage_bucket": "smspro3-1b703.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535504852147:android:fd66b4874fb09b37",
+        "android_client_info": {
+          "package_name": "com.example.wanderpragya.smspro3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535504852147-ce7tldricqq0kpsg6hoiik4jtapqlvdr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wanderpragya.smspro3",
+            "certificate_hash": "6acaf025655dc892dfd6a4d0657470d127fddb58"
+          }
+        },
+        {
+          "client_id": "535504852147-a03revslf1qvnvueic2tg6k4h56tkti1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCqRz2TRoHubzZEq0rmb_zDMhfx4Sjomg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535504852147-a03revslf1qvnvueic2tg6k4h56tkti1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
